@@ -109,6 +109,14 @@ includes:
 - Revenue quartile
 - Customer status
 
+## Example Outputs<img width="1920" height="1200" alt="example_output2" src="https://github.com/user-attachments/assets/f5238847-128a-49fd-918a-cd49ad8ad22b" />
+<img width="1920" height="1200" alt="example_output1" src="https://github.com/user-attachments/assets/c6eda271-5184-477c-b1b2-9da823a4b059" />
+<img width="1920" height="1200" alt="example_output4" src="https://github.com/user-attachments/assets/f6a72dbb-643a-4d4f-936c-d26a98787491" />
+<img width="1920" height="1200" alt="example_output3" src="https://github.com/user-attachments/assets/77388cb1-d131-4777-8a02-88267645543f" />
+
+## Schema
+<img width="561" height="894" alt="schema" src="https://github.com/user-attachments/assets/0469c045-2d37-4f5d-8ba5-9ad80185aff1" />
+
 ## Tools
 
 - PostgreSQL
