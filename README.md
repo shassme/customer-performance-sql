@@ -30,14 +30,12 @@ customers --> orders --> order_details --> products --> categories
 ## SQL Techniques
 
 - Common Table Expressions (CTEs)
-- INNER JOIN
 - LEFT JOIN
 - GROUP BY
 - Conditional aggregation
 - Window functions
 - NTILE
 - NULLIF
-- COALESCE
 - CASE statements
 
 ## Key Analytical Concepts
