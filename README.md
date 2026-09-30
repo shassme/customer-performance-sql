@@ -25,19 +25,7 @@ regional performance.
 
 ## Database Structure
 
-customers
-    |
-    v
-orders
-    |
-    v
-order_details
-    |
-    v
-products
-    |
-    v
-categories
+customers --> orders --> order_details --> products --> categories
 
 ## SQL Techniques
 
