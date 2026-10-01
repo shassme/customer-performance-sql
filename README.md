@@ -75,15 +75,19 @@ customers --> orders --> order_details --> products --> categories
 
 ## SQL Techniques
 
-- Common Table Expressions (CTEs)
-- LEFT JOIN
-- GROUP BY
-- Conditional aggregation
-- Filter
-- Window functions
-- NTILE
-- NULLIF
-- CASE statements
+- 'Common Table Expressions (CTEs)'
+- 'LEFT JOIN'
+- 'GROUP BY'
+- 'Conditional aggregation'
+- 'Filter clause'
+- 'Window functions'
+- 'NTILE'
+- 'NULLIF'
+- 'CASE statements'
+- `COUNT(DISTINCT ...)`
+- `COALESCE`
+- `NULLIF`
+- `CASE`
 
 ## Key Analytical Concepts
 
