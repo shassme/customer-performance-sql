@@ -121,6 +121,15 @@ includes:
 ## Schema
 <img width="561" height="894" alt="schema" src="https://github.com/user-attachments/assets/0469c045-2d37-4f5d-8ba5-9ad80185aff1" />
 
+## Dataset
+
+The dataset used in this project was obtained from Kaggle.
+
+The dataset contains relational sales data covering customers, orders,
+order details, products, and categories.
+
+[View the original dataset on Kaggle](https://www.kaggle.com/datasets/hyerdrac/retail-data/data)
+
 ## Tools
 
 - PostgreSQL
