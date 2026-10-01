@@ -51,9 +51,9 @@ The final query uses window functions to calculate:
 - Regional revenue quartile
 
 Customers are also classified into three revenue-based segments:
-- no_revenue
-- regular
-- high_value
+- 'no_revenue'
+- 'regular
+- 'high_value'
 
 ## Business Questions
 
